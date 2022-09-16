@@ -5,3 +5,5 @@ lorem = """Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusm
 		   
 resultat = lorem.count(".")
 print(resultat)
+
+#hgf
